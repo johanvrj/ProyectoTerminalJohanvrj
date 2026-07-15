@@ -1,0 +1,1017 @@
+Original,Concepto
+human,Demografía
+male,Demografía
+female,Demografía
+animal,Modelos Animales y Zoología
+controlled_study,Metodología de Investigación
+nonhuman,Modelos Animales y Zoología
+adult,Demografía
+metabolism,Bioquímica
+priority_journal,Miscelánea Científica
+middle_aged,Demografía
+rat,Modelos Animales y Zoología
+animal_experiment,Metodología de Investigación
+chemistry,Química y Ciencia de Materiales
+unclassified_drug,Farmacología
+drug_effect,Farmacología
+mexico_[north_america],Geografía
+genetics,Genética
+mouse,Modelos Animales y Zoología
+physiology,Anatomía y Biología Celular
+aged,Demografía
+oxidative_stress,Bioquímica
+young_adult,Demografía
+child,Demografía
+adolescent,Demografía
+animal_model,Modelos Animales y Zoología
+review,Metodología de Investigación
+antioxidant,Farmacología
+cross-sectional_study,Metodología de Investigación
+major_clinical_study,Metodología de Investigación
+animal_tissue,Anatomía y Biología Celular
+risk_factor,Salud Pública
+scanning_electron_microscopy,Técnicas Analíticas
+plant_extract,Botánica y Agricultura
+procedure,Metodología de Investigación
+prevalence,Salud Pública
+pathology,Patología y Enfermedades
+protein_expression,Bioquímica
+kinetics,Física e Ingeniería
+cell_proliferation,Anatomía y Biología Celular
+carbon_dioxide,Química y Ciencia de Materiales
+temperature,Física e Ingeniería
+fermentation,Bioquímica
+glucose,Bioquímica
+animal_cell,Anatomía y Biología Celular
+enzyme_activity,Bioquímica
+pregnancy,Anatomía y Biología Celular
+in_vitro_study,Metodología de Investigación
+obesity,Patología y Enfermedades
+mexico_city,Geografía
+particle_size,Química y Ciencia de Materiales
+comparative_study,Metodología de Investigación
+gene_expression,Genética
+signal_transduction,Anatomía y Biología Celular
+human_cell,Anatomía y Biología Celular
+density_functional_theory,Física e Ingeniería
+x_ray_diffraction,Técnicas Analíticas
+biomass,Ciencias Ambientales
+adsorption,Química y Ciencia de Materiales
+clinical_article,Metodología de Investigación
+inflammation,Inmunología
+molecular_dynamic,Química y Ciencia de Materiales
+apoptosis,Anatomía y Biología Celular
+oxidation,Química y Ciencia de Materiales
+ph,Química y Ciencia de Materiales
+wistar_rat,Modelos Animales y Zoología
+protein,Bioquímica
+oxygen,Química y Ciencia de Materiales
+blood,Anatomía y Biología Celular
+brain,Anatomía y Biología Celular
+rats_wistar,Modelos Animales y Zoología
+titanium_dioxide,Química y Ciencia de Materiales
+diffusion,Física e Ingeniería
+starch,Bioquímica
+microbiology,Microbiología
+catalyst,Química y Ciencia de Materiales
+fourier_transform_infrared_spectroscopy,Técnicas Analíticas
+escherichia_coli,Microbiología
+phenotype,Genética
+cytokine,Inmunología
+carbon,Química y Ciencia de Materiales
+phylogeny,Genética
+genotype,Genética
+reactive_oxygen_metabolite,Bioquímica
+isolation_and_purification,Técnicas Analíticas
+molecule,Química y Ciencia de Materiales
+immunohistochemistry,Técnicas Analíticas
+body_mass,Demografía
+pathophysiology,Patología y Enfermedades
+water,Ciencias Ambientales
+thermodynamics,Física e Ingeniería
+copper,Química y Ciencia de Materiales
+algorithm,Informática y Matemáticas
+infant,Demografía
+tumor_necrosis_factor,Inmunología
+mortality,Salud Pública
+me-xico,Geografía
+antineoplastic_agent,Farmacología
+interleukin_6,Inmunología
+phenol,Química y Ciencia de Materiales
+methane,Química y Ciencia de Materiales
+cell_culture,Técnicas Analíticas
+body_weight,Demografía
+bioreactors,Ciencias Ambientales
+cell_survival,Anatomía y Biología Celular
+morphology,Anatomía y Biología Celular
+polymerase_chain_reaction,Técnicas Analíticas
+human_tissue,Anatomía y Biología Celular
+catalysis,Química y Ciencia de Materiales
+high_performance_liquid_chromatography,Técnicas Analíticas
+hydrolysis,Química y Ciencia de Materiales
+biological_marker,Bioquímica
+synthesis,Química y Ciencia de Materiales
+cytology,Anatomía y Biología Celular
+nanoparticles,Química y Ciencia de Materiales
+fruit,Botánica y Agricultura
+chemical_structure,Química y Ciencia de Materiales
+gene_expression_regulation,Genética
+complication,Patología y Enfermedades
+global_health,Salud Pública
+catalyst_activity,Química y Ciencia de Materiales
+physicochemical_property,Química y Ciencia de Materiales
+biodegradation,Ciencias Ambientales
+concentration_composition,Química y Ciencia de Materiales
+cell_viability,Anatomía y Biología Celular
+retrospective_study,Metodología de Investigación
+hydrogen_bond,Química y Ciencia de Materiales
+flavonoid,Bioquímica
+depression,Psicología y Comportamiento
+student,Demografía
+gene,Genética
+aging,Demografía
+newborn,Demografía
+insulin,Bioquímica
+molecular_docking,Informática y Matemáticas
+hydrodynamics,Física e Ingeniería
+glucose_blood_level,Bioquímica
+surface_property,Química y Ciencia de Materiales
+glass,Química y Ciencia de Materiales
+photocatalytic_activity,Química y Ciencia de Materiales
+risk_assessment,Salud Pública
+ion,Química y Ciencia de Materiales
+heart_rate,Anatomía y Biología Celular
+covid-19,Patología y Enfermedades
+in_vivo_study,Metodología de Investigación
+ecosystem,Ciencias Ambientales
+time_factor,Metodología de Investigación
+computer_simulation,Informática y Matemáticas
+numerical_method,Informática y Matemáticas
+electrode,Física e Ingeniería
+biosynthesis,Bioquímica
+messenger_rna,Genética
+bioreactor,Ciencias Ambientales
+diabetes_mellitus,Patología y Enfermedades
+sewage,Ciencias Ambientales
+questionnaire,Metodología de Investigación
+calcium,Química y Ciencia de Materiales
+bioremediation,Ciencias Ambientales
+epidemiology,Salud Pública
+nitrogen,Química y Ciencia de Materiales
+bacterium,Microbiología
+chemical_analysis,Técnicas Analíticas
+immunology,Inmunología
+polymer,Química y Ciencia de Materiales
+hydrogen,Química y Ciencia de Materiales
+federal_district_mexico,Geografía
+real_time_polymerase_chain_reaction,Técnicas Analíticas
+diet,Salud Pública
+wastewater_treatment,Ciencias Ambientales
+follow_up,Metodología de Investigación
+mitochondrion,Anatomía y Biología Celular
+methanol,Química y Ciencia de Materiales
+glutathione,Bioquímica
+quality_of_life,Salud Pública
+iron,Química y Ciencia de Materiales
+chemical_composition,Química y Ciencia de Materiales
+solvent,Química y Ciencia de Materiales
+preschool_child,Demografía
+atom,Física e Ingeniería
+bacteria,Microbiología
+chlorine_compound,Química y Ciencia de Materiales
+classification,Miscelánea Científica
+non_insulin_dependent_diabetes_mellitus,Patología y Enfermedades
+x_ray_photoelectron_spectroscopy,Técnicas Analíticas
+fatty_acid,Bioquímica
+synthesis_chemical,Química y Ciencia de Materiales
+antioxidant_activity,Farmacología
+dna,Genética
+enzyme_linked_immunosorbent_assay,Técnicas Analíticas
+soil,Ciencias Ambientales
+hippocampus,Anatomía y Biología Celular
+lipid_peroxidation,Bioquímica
+growth_development_and_aging,Anatomía y Biología Celular
+amino_acid,Bioquímica
+dose_response,Farmacología
+disease_model,Modelos Animales y Zoología
+decision_making,Psicología y Comportamiento
+western_blotting,Técnicas Analíticas
+quantum_theory,Física e Ingeniería
+genetic_variation,Genética
+lipid,Bioquímica
+physical_chemistry,Química y Ciencia de Materiales
+hypertension,Patología y Enfermedades
+fungi,Microbiología
+blood_pressure,Anatomía y Biología Celular
+lactic_acid,Bioquímica
+cholesterol,Bioquímica
+dispersion,Física e Ingeniería
+psychology,Psicología y Comportamiento
+microrna,Genética
+degradation,Química y Ciencia de Materiales
+nitric_oxide,Bioquímica
+performance,Miscelánea Científica
+zinc,Química y Ciencia de Materiales
+incidence,Salud Pública
+disease_models_animal,Modelos Animales y Zoología
+infrared_spectroscopy,Técnicas Analíticas
+dna_damage,Genética
+cell,Anatomía y Biología Celular
+triacylglycerol,Bioquímica
+child_preschool,Demografía
+energy_transfer,Física e Ingeniería
+entropy,Física e Ingeniería
+electroencephalography,Técnicas Analíticas
+mass_spectrometry,Técnicas Analíticas
+simulation,Informática y Matemáticas
+coronavirus_disease_2019,Patología y Enfermedades
+spinal_cord_injury,Patología y Enfermedades
+energy_gap,Física e Ingeniería
+animal_welfare,Modelos Animales y Zoología
+age,Demografía
+liver,Anatomía y Biología Celular
+hydrogen_production,Ciencias Ambientales
+transmission_electron_microscopy,Técnicas Analíticas
+upregulation,Genética
+enzyme,Bioquímica
+nuclear_magnetic_resonance_spectroscopy,Técnicas Analíticas
+sulfur_compound,Química y Ciencia de Materiales
+nutritional_status,Salud Pública
+ammonia,Química y Ciencia de Materiales
+cytotoxicity,Farmacología
+ic50,Farmacología
+immune_response,Inmunología
+bovine,Modelos Animales y Zoología
+monte_carlo_method,Informática y Matemáticas
+cell_differentiation,Anatomía y Biología Celular
+life_expectancy,Salud Pública
+genetic_variability,Genética
+binary_alloy,Química y Ciencia de Materiales
+cohort_analysis,Metodología de Investigación
+biomarkers,Bioquímica
+histopathology,Patología y Enfermedades
+alumina,Química y Ciencia de Materiales
+alzheimer_disease,Patología y Enfermedades
+prospective_study,Metodología de Investigación
+hydrogen_peroxide,Química y Ciencia de Materiales
+antiinflammatory_activity,Farmacología
+cardiovascular_disease,Patología y Enfermedades
+photoluminescence,Física e Ingeniería
+single_nucleotide_polymorphism,Genética
+cattle,Modelos Animales y Zoología
+substrate,Bioquímica
+antiinflammatory_agent,Farmacología
+veterinary_medicine,Modelos Animales y Zoología
+parkinson_disease,Patología y Enfermedades
+odontogenic_tumor,Patología y Enfermedades
+interleukin_10,Inmunología
+gene_frequency,Genética
+systematic_review,Metodología de Investigación
+climate_change,Ciencias Ambientales
+metal,Química y Ciencia de Materiales
+light,Física e Ingeniería
+molecular_structure,Química y Ciencia de Materiales
+dynamic,Física e Ingeniería
+united_state,Geografía
+high_resolution_transmission_electron_microscopy,Técnicas Analíticas
+disease_association,Patología y Enfermedades
+melatonin,Bioquímica
+efficiency,Miscelánea Científica
+photocatalysis,Química y Ciencia de Materiales
+biochemistry,Bioquímica
+disease,Patología y Enfermedades
+microbial_community,Microbiología
+mammal,Modelos Animales y Zoología
+treatment_outcome,Farmacología
+aluminum_oxide,Química y Ciencia de Materiales
+sol-gels,Química y Ciencia de Materiales
+demography,Demografía
+sol-gel_process,Química y Ciencia de Materiales
+molecular_dynamic_simulation,Informática y Matemáticas
+interleukin_1beta,Inmunología
+optical_property,Física e Ingeniería
+enzymology,Bioquímica
+milk,Botánica y Agricultura
+human_experiment,Metodología de Investigación
+antiinfective_agent,Farmacología
+geometry,Informática y Matemáticas
+down_regulation,Genética
+irradiation,Física e Ingeniería
+biodiversity,Ciencias Ambientales
+chemical_oxygen_demand,Ciencias Ambientales
+culture_medium,Técnicas Analíticas
+bioinformatics,Informática y Matemáticas
+crystal_structure,Química y Ciencia de Materiales
+binding_site,Bioquímica
+rna_16,Genética
+synthesised,Química y Ciencia de Materiales
+differential_scanning_calorimetry,Técnicas Analíticas
+silica,Química y Ciencia de Materiales
+numerical_model,Informática y Matemáticas
+toxicity,Farmacología
+lithium_compound,Química y Ciencia de Materiales
+very_elderly,Demografía
+nitrate,Química y Ciencia de Materiales
+evolutionary_algorithm,Informática y Matemáticas
+water_pollution,Ciencias Ambientales
+drug_synthesis,Farmacología
+mathematical_model,Informática y Matemáticas
+mass_transfer,Física e Ingeniería
+anaerobic_digestion,Ciencias Ambientales
+fungus,Microbiología
+arsenic,Química y Ciencia de Materiales
+estradiol,Bioquímica
+heat_transfer,Física e Ingeniería
+metabolite,Bioquímica
+ameloblastoma,Patología y Enfermedades
+chitosan,Química y Ciencia de Materiales
+electrochemical_impedance_spectroscopy,Técnicas Analíticas
+activation_energy,Física e Ingeniería
+cell_membrane,Anatomía y Biología Celular
+enzyme_inhibition,Bioquímica
+flow_cytometry,Técnicas Analíticas
+magnetic_resonance_imaging,Técnicas Analíticas
+neoplasm,Patología y Enfermedades
+superoxide_dismutase,Bioquímica
+macrophage,Inmunología
+reactive_oxygen_specie,Bioquímica
+dose-response_relationship_drug,Farmacología
+pain,Patología y Enfermedades
+cognition,Psicología y Comportamiento
+oxidation_reduction_reaction,Química y Ciencia de Materiales
+ii-vi_semiconductor,Química y Ciencia de Materiales
+finite_element_method,Informática y Matemáticas
+biomedical_engineering,Física e Ingeniería
+time_series_analysis,Informática y Matemáticas
+cell_line_tumor,Patología y Enfermedades
+peptide,Bioquímica
+porous_material,Química y Ciencia de Materiales
+pig,Modelos Animales y Zoología
+free_radical,Bioquímica
+extraction,Técnicas Analíticas
+testosterone,Bioquímica
+quantitative_analysis,Técnicas Analíticas
+lactation,Anatomía y Biología Celular
+histology,Anatomía y Biología Celular
+bacterial_strain,Microbiología
+environmental_exposure,Ciencias Ambientales
+disease_severity,Patología y Enfermedades
+tumor_cell_line,Patología y Enfermedades
+fluorescence,Técnicas Analíticas
+zinc_oxide,Química y Ciencia de Materiales
+pandemic,Salud Pública
+public_health,Salud Pública
+diagnostic_imaging,Técnicas Analíticas
+fluoride,Química y Ciencia de Materiales
+protein_binding,Bioquímica
+reaction_kinetics,Química y Ciencia de Materiales
+pacific_ocean,Geografía
+prediction,Informática y Matemáticas
+corticosterone,Bioquímica
+quantum_chemistry,Química y Ciencia de Materiales
+comorbidity,Patología y Enfermedades
+exercise,Salud Pública
+sustainable_development,Ciencias Ambientales
+aluminum,Química y Ciencia de Materiales
+case_report,Metodología de Investigación
+environmental_monitoring,Ciencias Ambientales
+statistic_and_numerical_data,Informática y Matemáticas
+global_disease_burden,Salud Pública
+theoretical_study,Metodología de Investigación
+latin_america,Geografía
+effluent,Ciencias Ambientales
+socioeconomics,Salud Pública
+aged_80_and_over,Demografía
+allele,Genética
+dopamine,Bioquímica
+drug_efficacy,Farmacología
+malnutrition,Salud Pública
+human_immunodeficiency_virus_infection,Patología y Enfermedades
+computational_fluid_dynamic,Física e Ingeniería
+heart,Anatomía y Biología Celular
+season,Ciencias Ambientales
+electron,Física e Ingeniería
+genetic_association,Genética
+nonlinear_equation,Informática y Matemáticas
+animal_behavior,Modelos Animales y Zoología
+heavy_metal,Ciencias Ambientales
+survey_and_questionnaire,Metodología de Investigación
+molecular_weight,Química y Ciencia de Materiales
+water_pollutant,Ciencias Ambientales
+nuclear_magnetic_resonance_imaging,Técnicas Analíticas
+drinking_water,Ciencias Ambientales
+environmental_impact,Ciencias Ambientales
+drug_mechanism,Farmacología
+earthquake,Ciencias Ambientales
+reproduction,Anatomía y Biología Celular
+spermatozoon,Anatomía y Biología Celular
+hydrophobicity,Química y Ciencia de Materiales
+liquid,Química y Ciencia de Materiales
+particulate_matter,Ciencias Ambientales
+staphylococcus_aureus,Microbiología
+electric_field,Física e Ingeniería
+antibiotic_resistance,Microbiología
+case_control_study,Metodología de Investigación
+optimization,Informática y Matemáticas
+energy,Física e Ingeniería
+gulf_of_mexico,Geografía
+body_composition,Demografía
+thermogravimetric_analysis,Técnicas Analíticas
+titanium,Química y Ciencia de Materiales
+microbial_sensitivity_test,Microbiología
+mutation,Genética
+prognosis,Patología y Enfermedades
+phenol_derivative,Química y Ciencia de Materiales
+anxiety,Psicología y Comportamiento
+property,Química y Ciencia de Materiales
+dna_extraction,Técnicas Analíticas
+reinforced_concrete,Física e Ingeniería
+neuroprotection,Farmacología
+gas_chromatography,Técnicas Analíticas
+dietary_supplement,Salud Pública
+principal_component_analysis,Informática y Matemáticas
+seismic_design,Física e Ingeniería
+drug_delivery_system,Farmacología
+bacterial_protein,Microbiología
+catalase,Bioquímica
+diabetes_mellitus_type_2,Patología y Enfermedades
+cyclic_voltammetry,Técnicas Analíticas
+homeostasis,Anatomía y Biología Celular
+leaching,Química y Ciencia de Materiales
+ester,Química y Ciencia de Materiales
+oxidation-reduction,Química y Ciencia de Materiales
+antidiabetic_agent,Farmacología
+cadmium,Química y Ciencia de Materiales
+metal_nanoparticles,Química y Ciencia de Materiales
+economics,Miscelánea Científica
+aspergillus,Microbiología
+sex_difference,Demografía
+calculation,Informática y Matemáticas
+gene_expression_profiling,Genética
+progesterone,Bioquímica
+feeding_behavior,Psicología y Comportamiento
+molecular_docking_simulation,Informática y Matemáticas
+educational_status,Demografía
+photodegradation,Ciencias Ambientales
+urea,Bioquímica
+longitudinal_study,Metodología de Investigación
+concentration_parameter,Química y Ciencia de Materiales
+clinical_feature,Patología y Enfermedades
+cell_line,Anatomía y Biología Celular
+meat,Botánica y Agricultura
+observational_study,Metodología de Investigación
+sheep,Modelos Animales y Zoología
+neuroprotective_agent,Farmacología
+education,Miscelánea Científica
+chemical_reaction,Química y Ciencia de Materiales
+metabolic_syndrome_x,Patología y Enfermedades
+central_nervous_system,Anatomía y Biología Celular
+quality_control,Miscelánea Científica
+alcohol,Química y Ciencia de Materiales
+cause_of_death,Salud Pública
+nitrification,Ciencias Ambientales
+charge_transfer,Física e Ingeniería
+sex_factor,Demografía
+viscosity,Física e Ingeniería
+sodium_chloride,Química y Ciencia de Materiales
+digestion,Anatomía y Biología Celular
+physiological_stress,Anatomía y Biología Celular
+agriculture,Botánica y Agricultura
+physical_activity,Salud Pública
+artificial_intelligence,Informática y Matemáticas
+ethanol,Química y Ciencia de Materiales
+machine_learning,Informática y Matemáticas
+electrolyte,Química y Ciencia de Materiales
+solubility,Química y Ciencia de Materiales
+brazil,Geografía
+growth_rate,Anatomía y Biología Celular
+emulsion,Química y Ciencia de Materiales
+carbohydrate,Bioquímica
+graphene,Química y Ciencia de Materiales
+zinc_compound,Química y Ciencia de Materiales
+aromatic_compound,Química y Ciencia de Materiales
+reverse_transcription_polymerase_chain_reaction,Técnicas Analíticas
+spectrophotometry,Técnicas Analíticas
+aqueous_solution,Química y Ciencia de Materiales
+age_distribution,Demografía
+immunoglobulin_enhancer_binding_protein,Inmunología
+sulfur,Química y Ciencia de Materiales
+food_intake,Salud Pública
+statistical_model,Informática y Matemáticas
+multiobjective_optimization,Informática y Matemáticas
+microorganism,Microbiología
+animalia,Modelos Animales y Zoología
+stochastic_system,Informática y Matemáticas
+wastewater,Ciencias Ambientales
+condition,Miscelánea Científica
+soil_pollutant,Ciencias Ambientales
+color,Física e Ingeniería
+thin_film,Química y Ciencia de Materiales
+luminescence,Física e Ingeniería
+environmental_factor,Ciencias Ambientales
+south_and_central_america,Geografía
+rate_constant,Química y Ciencia de Materiales
+isotherm,Química y Ciencia de Materiales
+drug_structure,Farmacología
+normal_human,Demografía
+computer_model,Informática y Matemáticas
+plant_leaf,Botánica y Agricultura
+diagnosis,Patología y Enfermedades
+acetylcholinesterase,Bioquímica
+hydrogen-ion_concentration,Química y Ciencia de Materiales
+developing_country,Geografía
+spain,Geografía
+regression_analysis,Informática y Matemáticas
+bioconversion,Ciencias Ambientales
+anthropometry,Salud Pública
+structure_activity_relation,Farmacología
+seismic_response,Física e Ingeniería
+anti-bacterial_agent,Farmacología
+time_series,Informática y Matemáticas
+protein_function,Bioquímica
+bacterium_culture,Microbiología
+insulin_resistance,Patología y Enfermedades
+surface_area,Química y Ciencia de Materiales
+blood_sampling,Metodología de Investigación
+sol,Química y Ciencia de Materiales
+infant_newborn,Demografía
+breast_cancer,Patología y Enfermedades
+transcription_factor_nrf2,Genética
+manganese,Química y Ciencia de Materiales
+case-control_study,Metodología de Investigación
+cells_cultured,Anatomía y Biología Celular
+gamma_interferon,Inmunología
+geographic_distribution,Geografía
+molecular_model,Informática y Matemáticas
+stability,Química y Ciencia de Materiales
+alkalinity,Química y Ciencia de Materiales
+cell_death,Anatomía y Biología Celular
+mixture,Química y Ciencia de Materiales
+global_burden_of_disease,Salud Pública
+energy_dispersive_spectroscopy,Técnicas Analíticas
+dental_caries,Patología y Enfermedades
+colombia,Geografía
+nerve_cell,Anatomía y Biología Celular
+motivation,Psicología y Comportamiento
+fish,Modelos Animales y Zoología
+controller,Física e Ingeniería
+maize,Botánica y Agricultura
+adverse_event,Farmacología
+chemical_stability,Química y Ciencia de Materiales
+chemical_bond,Química y Ciencia de Materiales
+protein_phosphorylation,Bioquímica
+biofilm,Microbiología
+medicinal_plant,Botánica y Agricultura
+beverage,Botánica y Agricultura
+sensitivity_and_specificity,Informática y Matemáticas
+ascorbic_acid,Bioquímica
+differential_equation,Informática y Matemáticas
+powder,Química y Ciencia de Materiales
+ethylene,Química y Ciencia de Materiales
+nanoparticle,Química y Ciencia de Materiales
+biodegradation_environmental,Ciencias Ambientales
+nickel,Química y Ciencia de Materiales
+amino_acid_sequence,Bioquímica
+gas,Química y Ciencia de Materiales
+drug_formulation,Farmacología
+air_pollutant,Ciencias Ambientales
+waste_water,Ciencias Ambientales
+greenhouse_gas,Ciencias Ambientales
+health,Salud Pública
+concentration_parameters,Química y Ciencia de Materiales
+nucleotide_sequence,Genética
+seasonal_variation,Ciencias Ambientales
+socioeconomic_factor,Salud Pública
+chemically_induced,Farmacología
+energy_metabolism,Bioquímica
+iron_compound,Química y Ciencia de Materiales
+lipid_metabolism,Bioquímica
+biotechnology,Miscelánea Científica
+organic_solvent,Química y Ciencia de Materiales
+protein_conformation,Bioquímica
+anti-inflammatory_agent,Farmacología
+spectroscopy,Técnicas Analíticas
+epilepsy,Patología y Enfermedades
+water_supply,Ciencias Ambientales
+sars-cov-2,Microbiología
+cactaceae,Botánica y Agricultura
+citrus_fruit,Botánica y Agricultura
+porous_medium,Física e Ingeniería
+specie_richness,Ciencias Ambientales
+urban_area,Geografía
+sexual_behavior,Psicología y Comportamiento
+body_mass_index,Demografía
+gas_adsorption,Química y Ciencia de Materiales
+glutathione_peroxidase,Bioquímica
+health_risk,Salud Pública
+models_molecular,Informática y Matemáticas
+heart_rate_variability,Anatomía y Biología Celular
+reproducibility,Metodología de Investigación
+bacterial_growth,Microbiología
+oocyte,Anatomía y Biología Celular
+edema,Patología y Enfermedades
+metformin,Farmacología
+reduction,Química y Ciencia de Materiales
+genetic_algorithm,Informática y Matemáticas
+drug_screening,Farmacología
+energy_efficiency,Física e Ingeniería
+x_ray_powder_diffraction,Técnicas Analíticas
+dog,Modelos Animales y Zoología
+severe_acute_respiratory_syndrome_coronavirus_2,Microbiología
+proton_nuclear_magnetic_resonance,Técnicas Analíticas
+city,Geografía
+recycling,Ciencias Ambientales
+biocompatibility,Química y Ciencia de Materiales
+polymerization,Química y Ciencia de Materiales
+copper_compound,Química y Ciencia de Materiales
+acetic_acid,Química y Ciencia de Materiales
+nociception,Psicología y Comportamiento
+serotonin,Bioquímica
+experimental_study,Metodología de Investigación
+molar_ratio,Química y Ciencia de Materiales
+cognitive_defect,Psicología y Comportamiento
+corpus_striatum,Anatomía y Biología Celular
+motor_activity,Anatomía y Biología Celular
+emulsification,Química y Ciencia de Materiales
+proteomics,Bioquímica
+drug_solubility,Farmacología
+water_pollutants_chemical,Ciencias Ambientales
+antineoplastic_activity,Farmacología
+texture,Física e Ingeniería
+computation_theory,Informática y Matemáticas
+neuron,Anatomía y Biología Celular
+amygdala,Anatomía y Biología Celular
+electronic_structure,Física e Ingeniería
+design,Miscelánea Científica
+school_child,Demografía
+cellulose,Química y Ciencia de Materiales
+aluminum_alloy,Química y Ciencia de Materiales
+virology,Microbiología
+hydrocarbon,Química y Ciencia de Materiales
+free_energy,Física e Ingeniería
+ozone,Ciencias Ambientales
+velocity,Física e Ingeniería
+catalyst_plus,Química y Ciencia de Materiales
+lactoferrin,Bioquímica
+health_survey,Metodología de Investigación
+curcumin,Bioquímica
+thermoanalysis,Técnicas Analíticas
+gene_mutation,Genética
+gene_sequence,Genética
+hyperalgesia,Patología y Enfermedades
+water_quality,Ciencias Ambientales
+c_reactive_protein,Inmunología
+thermography,Técnicas Analíticas
+intelligent_system,Informática y Matemáticas
+systolic_blood_pressure,Anatomía y Biología Celular
+probability,Informática y Matemáticas
+porosity,Química y Ciencia de Materiales
+silicon,Química y Ciencia de Materiales
+swine,Modelos Animales y Zoología
+analgesic_agent,Farmacología
+peroxisome_proliferator_activated_receptor_gamma,Genética
+drug_therapy,Farmacología
+seismology,Física e Ingeniería
+body_weight_gain,Anatomía y Biología Celular
+binding_energy,Física e Ingeniería
+autonomic_nervous_system,Anatomía y Biología Celular
+immunofluorescence,Técnicas Analíticas
+energy_dispersive_x_ray_spectroscopy,Técnicas Analíticas
+uncertainty_analysis,Informática y Matemáticas
+survival,Demografía
+organometallics,Química y Ciencia de Materiales
+equation_of_motion,Física e Ingeniería
+haplotype,Genética
+magnetic_field,Física e Ingeniería
+solar_energy,Física e Ingeniería
+corrosion,Física e Ingeniería
+chronic_disease,Patología y Enfermedades
+dna_sequence,Genética
+kinetic_parameter,Física e Ingeniería
+social_behavior,Psicología y Comportamiento
+recombinant_protein,Bioquímica
+emotion,Psicología y Comportamiento
+crystallinity,Química y Ciencia de Materiales
+promoter_region,Genética
+mortality_rate,Salud Pública
+clinical_trial,Metodología de Investigación
+aspergillus_niger,Microbiología
+mesoporous_material,Química y Ciencia de Materiales
+forecasting,Informática y Matemáticas
+ultraviolet_radiation,Física e Ingeniería
+insecticide,Ciencias Ambientales
+zea_may,Botánica y Agricultura
+ecology,Ciencias Ambientales
+fabaceae,Botánica y Agricultura
+water_management,Ciencias Ambientales
+confocal_microscopy,Técnicas Analíticas
+wave_function,Física e Ingeniería
+glutamic_acid,Bioquímica
+interleukin_4,Inmunología
+hydrocortisone,Bioquímica
+hemoglobin,Bioquímica
+genomics,Genética
+building,Física e Ingeniería
+antibiotic,Farmacología
+precipitation_chemical,Química y Ciencia de Materiales
+larva,Modelos Animales y Zoología
+quercetin,Bioquímica
+zirconia,Química y Ciencia de Materiales
+productivity,Miscelánea Científica
+diarrhea,Patología y Enfermedades
+population_density,Demografía
+plant_botany,Botánica y Agricultura
+multivariate_analysis,Informática y Matemáticas
+bagg_albino_mouse,Modelos Animales y Zoología
+gold,Química y Ciencia de Materiales
+probiotic,Microbiología
+polymorphism_single_nucleotide,Genética
+pore_size,Química y Ciencia de Materiales
+nutrition,Salud Pública
+bat,Modelos Animales y Zoología
+crystalline_material,Química y Ciencia de Materiales
+zeolite,Química y Ciencia de Materiales
+smoking,Salud Pública
+simple,Informática y Matemáticas
+cholesterol_blood_level,Bioquímica
+infrared_device,Técnicas Analíticas
+parameter_estimation,Informática y Matemáticas
+immunoglobulin_a,Inmunología
+pollutant_removal,Ciencias Ambientales
+rna,Genética
+clinical_evaluation,Metodología de Investigación
+energy_utilization,Física e Ingeniería
+rna_extraction,Técnicas Analíticas
+crystallization,Química y Ciencia de Materiales
+severity_of_illness_index,Patología y Enfermedades
+biological_activity,Farmacología
+nucleation,Física e Ingeniería
+parasitology,Microbiología
+biogas,Ciencias Ambientales
+protein_analysis,Técnicas Analíticas
+neurodegenerative_disease,Patología y Enfermedades
+structural_analysis,Informática y Matemáticas
+micrornas,Genética
+chitin,Bioquímica
+distillation,Química y Ciencia de Materiales
+fractal,Informática y Matemáticas
+antimicrobial_activity,Farmacología
+biological_model,Metodología de Investigación
+nuclear_magnetic_resonance,Técnicas Analíticas
+bioaccumulation,Ciencias Ambientales
+epithelium_cell,Anatomía y Biología Celular
+locomotion,Modelos Animales y Zoología
+randomized_controlled_trial,Metodología de Investigación
+pathogenicity,Patología y Enfermedades
+injury,Patología y Enfermedades
+oxide,Química y Ciencia de Materiales
+silver,Química y Ciencia de Materiales
+thermostability,Química y Ciencia de Materiales
+amide,Química y Ciencia de Materiales
+mental_disease,Patología y Enfermedades
+blood_brain_barrier,Anatomía y Biología Celular
+organic_carbon,Ciencias Ambientales
+soil_pollution,Ciencias Ambientales
+yeast,Microbiología
+analog_and_derivative,Química y Ciencia de Materiales
+transcriptome,Genética
+sleep_deprivation,Psicología y Comportamiento
+glycerol,Bioquímica
+moisture,Ciencias Ambientales
+adipose_tissue,Anatomía y Biología Celular
+communicable_disease,Patología y Enfermedades
+noradrenalin,Bioquímica
+earthquake_effect,Ciencias Ambientales
+health_status,Salud Pública
+genetic_analysis,Genética
+oxide_mineral,Química y Ciencia de Materiales
+particle_size_analysis,Técnicas Analíticas
+analysis_of_variance,Informática y Matemáticas
+hiv_infection,Patología y Enfermedades
+specie_diversity,Ciencias Ambientales
+classification_information,Miscelánea Científica
+osteoarthritis,Patología y Enfermedades
+testis,Anatomía y Biología Celular
+carbon_source,Bioquímica
+polysaccharide,Bioquímica
+genome-wide_association_study,Genética
+topology,Informática y Matemáticas
+static_electricity,Física e Ingeniería
+automation,Informática y Matemáticas
+air_quality,Ciencias Ambientales
+oxytocin,Bioquímica
+tissue,Anatomía y Biología Celular
+caspase_3,Bioquímica
+bioassay,Técnicas Analíticas
+plant_protein,Botánica y Agricultura
+binding_affinity,Bioquímica
+memory,Psicología y Comportamiento
+waste_management,Ciencias Ambientales
+gelation,Química y Ciencia de Materiales
+water_treatment,Ciencias Ambientales
+blood_glucose,Bioquímica
+lithium-ion_battery,Química y Ciencia de Materiales
+emission_spectroscopy,Técnicas Analíticas
+aluminum_compound,Química y Ciencia de Materiales
+denitrification,Ciencias Ambientales
+pesticide,Ciencias Ambientales
+waste_water_management,Ciencias Ambientales
+ki_67_antigen,Inmunología
+magnetism,Física e Ingeniería
+spatiotemporal_analysis,Informática y Matemáticas
+rheumatoid_arthritis,Patología y Enfermedades
+laplace_transforms,Informática y Matemáticas
+genomic_dna,Genética
+software,Informática y Matemáticas
+limit_of_detection,Técnicas Analíticas
+neutrophil,Inmunología
+cytokine_production,Inmunología
+degenerative_disease,Patología y Enfermedades
+drug_potentiation,Farmacología
+fertility,Anatomía y Biología Celular
+essential_oil,Botánica y Agricultura
+liquid_crystal,Química y Ciencia de Materiales
+cluster_analysis,Informática y Matemáticas
+signal_processing,Informática y Matemáticas
+phosphorus,Química y Ciencia de Materiales
+sensitivity_analysis,Informática y Matemáticas
+biofilms,Microbiología
+fibroblast,Anatomía y Biología Celular
+neural_network,Informática y Matemáticas
+lung,Anatomía y Biología Celular
+electrochemical_electrode,Física e Ingeniería
+two_phase_flow,Física e Ingeniería
+atomic_force_microscopy,Técnicas Analíticas
+protein_blood_level,Bioquímica
+atlantic_ocean,Geografía
+microstructure,Química y Ciencia de Materiales
+perception,Psicología y Comportamiento
+biotransformation,Bioquímica
+thermoregulation,Anatomía y Biología Celular
+soliton,Física e Ingeniería
+feces,Anatomía y Biología Celular
+poverty,Salud Pública
+protein_protein_interaction,Bioquímica
+world_health_organization,Salud Pública
+phosphorylation,Bioquímica
+breast_neoplasm,Patología y Enfermedades
+hydrodesulfurization,Química y Ciencia de Materiales
+citric_acid,Bioquímica
+lignin,Botánica y Agricultura
+earthquake_engineering,Física e Ingeniería
+protein_kinase_b,Bioquímica
+antifungal_agent,Farmacología
+body_temperature,Anatomía y Biología Celular
+taste,Anatomía y Biología Celular
+brain_cortex,Anatomía y Biología Celular
+nanotube,Química y Ciencia de Materiales
+hydrogen_sulfide,Química y Ciencia de Materiales
+dna_methylation,Genética
+platinum,Química y Ciencia de Materiales
+plant_seed,Botánica y Agricultura
+pharmacology,Farmacología
+polynomial,Informática y Matemáticas
+seed,Botánica y Agricultura
+sulfide,Química y Ciencia de Materiales
+hypoxia,Patología y Enfermedades
+nanocomposites,Química y Ciencia de Materiales
+erratum,Miscelánea Científica
+ground_state,Física e Ingeniería
+structure-activity_relationship,Farmacología
+chemical_modification,Química y Ciencia de Materiales
+lipopolysaccharide,Bioquímica
+taxonomy,Biología (General)
+hypoglycemic_agent,Farmacología
+adenosine_triphosphate,Bioquímica
+sodium_compound,Química y Ciencia de Materiales
+peroxide,Química y Ciencia de Materiales
+sphere,Física e Ingeniería
+schizophrenia,Patología y Enfermedades
+kinetic_theory,Física e Ingeniería
+drug_design,Farmacología
+protein_p53,Genética
+plant,Botánica y Agricultura
+solution,Química y Ciencia de Materiales
+degree_of_freedom_mechanics,Física e Ingeniería
+food,Salud Pública
+chemical_industry,Química y Ciencia de Materiales
+interleukin_8,Inmunología
+actinobacteria,Microbiología
+biology,Biología (General)
+support_vector_machine,Informática y Matemáticas
+systemic_lupus_erythematosus,Patología y Enfermedades
+metabolic_disorder,Patología y Enfermedades
+sludge,Ciencias Ambientales
+sodium,Química y Ciencia de Materiales
+viscoelasticity,Física e Ingeniería
+sleep,Psicología y Comportamiento
+uncertainty,Informática y Matemáticas
+zinc_sulfide,Química y Ciencia de Materiales
+river,Ciencias Ambientales
+electrochemical_corrosion,Física e Ingeniería
+cost,Miscelánea Científica
+polycyclic_aromatic_hydrocarbon,Ciencias Ambientales
+epigenetics,Genética
+alcohol_consumption,Salud Pública
+photocatalysts,Química y Ciencia de Materiales
+microalga,Microbiología
+algae,Microbiología
+probiotic_agent,Microbiología
+cobalt,Química y Ciencia de Materiales
+ethylene_glycol,Química y Ciencia de Materiales
+leukocyte,Inmunología
+monocyte,Inmunología
+violence,Psicología y Comportamiento
+enzyme_inhibitor,Farmacología
+conformation,Química y Ciencia de Materiales
+toxicity_testing,Farmacología
+environmental_protection,Ciencias Ambientales
+mice_inbred_balb_c,Modelos Animales y Zoología
+fungus_growth,Microbiología
+epididymis,Anatomía y Biología Celular
+waist_circumference,Demografía
+mental_health,Psicología y Comportamiento
+trend,Informática y Matemáticas
+biomass_production,Ciencias Ambientales
+membrane_protein,Bioquímica
+reynolds_number,Física e Ingeniería
+mcf-7_cell_line,Patología y Enfermedades
+community_structure,Ciencias Ambientales
+metronidazole,Farmacología
+process_control,Informática y Matemáticas
+deep_eutectic_solvent,Química y Ciencia de Materiales
+high_density_lipoprotein_cholesterol,Bioquímica
+behavior_animal,Modelos Animales y Zoología
+genetic_marker,Genética
+eigenvalue_and_eigenfunctions,Informática y Matemáticas
+triacylglycerol_blood_level,Bioquímica
+animal_husbandry,Botánica y Agricultura
+calcination,Química y Ciencia de Materiales
+microbial_diversity,Microbiología
+pain_measurement,Metodología de Investigación
+pathogenesis,Patología y Enfermedades
+antidiabetic_activity,Farmacología
+mouth_mucosa,Anatomía y Biología Celular
+acetone,Química y Ciencia de Materiales
+amine,Química y Ciencia de Materiales
+curriculum,Miscelánea Científica
+drug_release,Farmacología
+eutectic,Química y Ciencia de Materiales
+brain_ischemia,Patología y Enfermedades
+peroxidase,Bioquímica
+paracetamol,Farmacología
+multi_objective_evolutionary_algorithm,Informática y Matemáticas
+cell_aging,Anatomía y Biología Celular
+enzyme_activation,Bioquímica
+deep_learning,Informática y Matemáticas
+symbiosis,Ciencias Ambientales
+area_under_the_curve,Informática y Matemáticas
+coral_reef,Ciencias Ambientales
+immunoreactivity,Inmunología
+phosphate,Química y Ciencia de Materiales
+sequence_analysis,Genética
+rna_messenger,Genética
+volatile_organic_compound,Ciencias Ambientales
+transcription_factor,Genética
+carbon_nuclear_magnetic_resonance,Técnicas Analíticas
+creatinine,Bioquímica
+metal_ion,Química y Ciencia de Materiales
+measurement_accuracy,Informática y Matemáticas
+biophysics,Física e Ingeniería
+mrna_expression_level,Genética
+multicenter_study,Metodología de Investigación
+steel_corrosion,Física e Ingeniería
+electrochemistry,Química y Ciencia de Materiales
+seizure,Patología y Enfermedades
+tumor_necrosis_factor-alpha,Inmunología
+chemical_activation,Química y Ciencia de Materiales
+genetic_predisposition,Genética
+genetic_predisposition_to_disease,Genética
+zeta_potential,Química y Ciencia de Materiales
+error,Informática y Matemáticas
+metalorganic_framework_mofs,Química y Ciencia de Materiales
+metal_organic_framework,Química y Ciencia de Materiales
+atmospheric_pressure,Física e Ingeniería
+device,Miscelánea Científica
+dissolution,Química y Ciencia de Materiales
+recovery,Miscelánea Científica
+membrane,Anatomía y Biología Celular
+dye,Química y Ciencia de Materiales
+nitrite,Química y Ciencia de Materiales
+lake,Geografía
+performance_assessment,Miscelánea Científica
+cell_adhesion,Anatomía y Biología Celular
+alanine_aminotransferase,Bioquímica
+aspartate_aminotransferase,Bioquímica
+reproducibility_of_result,Metodología de Investigación
+protein_synthesis,Bioquímica
+oxygen_consumption,Bioquímica
+electron_transport,Física e Ingeniería
+human_computer_interaction,Informática y Matemáticas
+organic_compound,Química y Ciencia de Materiales
+social_networking_online,Informática y Matemáticas
+catalytic_oxidation,Química y Ciencia de Materiales
+cognitive_radio,Informática y Matemáticas
+enthalpy,Física e Ingeniería
+saccharomyces_cerevisiae,Microbiología
+diet_supplementation,Salud Pública
