@@ -10,9 +10,7 @@ nltk.download('wordnet', quiet=True)
 nltk.download('omw-1.4', quiet=True)
 lemmatizer = WordNetLemmatizer()
 
-# ==========================================
-# CONFIGURACIÓN
-# ==========================================
+
 FRECUENCIA_MINIMA = 5
 
 df_diccionario = pd.read_csv('words_actualizado.csv')
@@ -33,7 +31,6 @@ df_sustitucion = df_diccionario[
     (df_diccionario['action'].astype(str).str.lower().str.strip() != 'nan')
 ]
 
-# {'palabra_vieja': 'palabra_nueva'}
 diccionario_sustitucion = dict(zip(
     df_sustitucion['words'].astype(str).str.strip().str.lower(),
     df_sustitucion['action'].astype(str).str.strip().str.lower()
@@ -83,9 +80,6 @@ def limpiar_palabra(texto):
     return texto_final
 
 
-# ==========================================
-# FASE 1: CARGA Y FILTRADO INICIAL
-# ==========================================
 print("Cargando el archivo principal de Scopus...")
 df = pd.read_csv('publicaciones_uam.csv')
 
@@ -103,9 +97,6 @@ df = df[
 print(f"-> Total de documentos después del filtro: {len(df)}")
 
 
-# ==========================================
-# FASE 2: EMPATE CON LA SEGUNDA BASE DE DATOS
-# ==========================================
 print("\nCargando archivo secundario de métricas...")
 archivo_secundario = 'Publications_at_Universidad_Aut_noma_Metropolitana_2014_-_2025.csv'
 
@@ -126,7 +117,6 @@ if llave in df.columns and llave in df_secundario.columns:
         "sin columnas repetidas."
     )
 
-    # Reparación de los IDs con decimales (.0)
     columnas_id = [col for col in df.columns if 'id' in col.lower()]
     for col in columnas_id:
         df[col] = (
@@ -142,15 +132,10 @@ else:
     )
 
 
-# ==========================================
-# FASE 3: LIMPIEZA Y FRECUENCIA GLOBAL
-# ==========================================
 print("\nIniciando limpieza global de palabras clave...")
 
 df = df.dropna(subset=['Index Keywords', 'Year'])
 
-# Guardaremos las keywords limpias de cada artículo para no tener que
-# limpiarlas otra vez al construir las redes.
 keywords_limpias_por_fila = {}
 todas_las_palabras = []
 
@@ -170,7 +155,6 @@ for indice, keywords_str in df['Index Keywords'].items():
 
 contador = Counter(todas_las_palabras)
 
-# Frecuencias antes de aplicar el umbral, útil para auditoría.
 df_frecuencias = pd.DataFrame(
     contador.items(),
     columns=['words', 'count']
@@ -181,8 +165,6 @@ df_frecuencias.to_csv(
     index=False
 )
 
-# Criterio de outliers de baja frecuencia:
-# conservar solo keywords presentes en al menos 5 publicaciones.
 palabras_frecuentes = {
     palabra
     for palabra, frecuencia in contador.items()
@@ -200,9 +182,6 @@ print(
 )
 
 
-# ==========================================
-# FASE 4: CREACIÓN DE REDES POR AÑO
-# ==========================================
 print("\nCreando redes por año...")
 
 print("\nDocumentos disponibles por año después de eliminar nulos:")
@@ -238,11 +217,6 @@ for anio, datos_del_anio in grupos_por_anio:
     )
 
 
-# ==========================================
-# FASE 5: EXPORTACIÓN FINAL
-# ==========================================
-
-# CSV adicional: solo las keywords que superaron el umbral.
 df_frecuencias_filtradas = df_frecuencias[
     df_frecuencias['count'] >= FRECUENCIA_MINIMA
 ]
