@@ -5,17 +5,15 @@ import nltk
 from nltk.stem import WordNetLemmatizer
 from collections import Counter
 import re
+import matplotlib.pyplot as plt
 
 nltk.download('wordnet', quiet=True)
 nltk.download('omw-1.4', quiet=True)
 lemmatizer = WordNetLemmatizer()
 
 
-FRECUENCIA_MINIMA = 5
-
 df_diccionario = pd.read_csv('words_actualizado.csv')
 
-# Palabras prohibidas
 df_excluidas = df_diccionario[
     df_diccionario['action'].astype(str).str.lower().str.strip() == 'x'
 ]
@@ -23,7 +21,6 @@ palabras_prohibidas = set(
     df_excluidas['words'].astype(str).str.strip().str.lower()
 )
 
-# Sustitución
 df_sustitucion = df_diccionario[
     (df_diccionario['action'].astype(str).str.lower().str.strip() != 'x') &
     (df_diccionario['action'].notna()) &
@@ -52,12 +49,11 @@ def limpiar_palabra(texto):
     if texto in palabras_prohibidas:
         return ""
 
-    # Sustituir la palabra si está en nuestro diccionario de acción
     if texto in diccionario_sustitucion:
         texto = diccionario_sustitucion[texto]
 
     if re.search(r'\d', texto):
-        return ""  # Si tiene un número, se elimina
+        return "" 
 
     texto = (
         texto.replace("&", "and")
@@ -67,13 +63,11 @@ def limpiar_palabra(texto):
         .replace("'", "")
     )
 
-    # Singular y N-gramas
     partes = texto.split(" ")
     partes = [p for p in partes if p.strip() != ""]
     partes_singulares = [lemmatizer.lemmatize(p) for p in partes]
     texto_final = "_".join(partes_singulares)
 
-    # Verificación final contra la lista negra tras la limpieza
     if texto_final in palabras_prohibidas:
         return ""
 
@@ -132,103 +126,196 @@ else:
     )
 
 
-print("\nIniciando limpieza global de palabras clave...")
+print("\nIniciando limpieza de palabras clave...")
 
 df = df.dropna(subset=['Index Keywords', 'Year'])
 
 keywords_limpias_por_fila = {}
-todas_las_palabras = []
 
 for indice, keywords_str in df['Index Keywords'].items():
     palabras_crudas = str(keywords_str).split(';')
 
     palabras = []
+
     for p in palabras_crudas:
         p_limpia = limpiar_palabra(p)
+
         if p_limpia != "":
             palabras.append(p_limpia)
 
-    # Una keyword cuenta una sola vez por publicación.
     palabras_unicas = list(set(palabras))
     keywords_limpias_por_fila[indice] = palabras_unicas
-    todas_las_palabras.extend(palabras_unicas)
 
-contador = Counter(todas_las_palabras)
+'''
+print("\nCalculando frecuencias por año...")
 
-df_frecuencias = pd.DataFrame(
-    contador.items(),
-    columns=['words', 'count']
-).sort_values(by='count', ascending=False)
+for anio, datos_del_anio in df.groupby('Year'):
 
-df_frecuencias.to_csv(
-    'frecuencias_palabras_limpio.csv',
-    index=False
-)
+    todas_las_palabras_anio = []
 
-palabras_frecuentes = {
-    palabra
-    for palabra, frecuencia in contador.items()
-    if frecuencia >= FRECUENCIA_MINIMA
-}
+    for indice in datos_del_anio.index:
+        todas_las_palabras_anio.extend(
+            keywords_limpias_por_fila[indice]
+        )
 
-print(f"-> Keywords únicas después de la limpieza: {len(contador)}")
-print(
-    f"-> Keywords con frecuencia >= {FRECUENCIA_MINIMA}: "
-    f"{len(palabras_frecuentes)}"
-)
-print(
-    f"-> Keywords eliminadas por frecuencia < {FRECUENCIA_MINIMA}: "
-    f"{len(contador) - len(palabras_frecuentes)}"
-)
+    contador_anio = Counter(todas_las_palabras_anio)
 
+    df_frecuencias_anio = pd.DataFrame(
+        contador_anio.items(),
+        columns=['words', 'count']
+    ).sort_values(by='count', ascending=False)
 
-print("\nCreando redes por año...")
+    # Guardar frecuencias del año
+    nombre_csv = f"frecuencias_{int(anio)}.csv"
 
-print("\nDocumentos disponibles por año después de eliminar nulos:")
+    df_frecuencias_anio.to_csv(
+        nombre_csv,
+        index=False
+    )
+
+    # ------------------------------------------
+    # Distribución de frecuencias
+    # X = número de apariciones
+    # Y = número de palabras con esa frecuencia
+    # ------------------------------------------
+
+    distribucion = (
+        df_frecuencias_anio['count']
+        .value_counts()
+        .sort_index()
+    )
+
+    plt.figure(figsize=(10, 6))
+
+    plt.bar(
+        distribucion.index,
+        distribucion.values
+    )
+
+    plt.xlabel("Número de apariciones (count)")
+    plt.ylabel("Número de palabras")
+    plt.title(
+        f"Distribución de frecuencias de palabras - {int(anio)}"
+    )
+
+    plt.tight_layout()
+
+    nombre_histograma = f"histograma_{int(anio)}.png"
+
+    plt.savefig(
+        nombre_histograma,
+        dpi=300
+    )
+
+    plt.close()
+
+    print(
+        f"-> {int(anio)}: "
+        f"{len(contador_anio)} keywords únicas | "
+        f"máxima frecuencia = "
+        f"{max(contador_anio.values())}"
+    )
+'''
+
+print("\nCreando redes por año sin outliers...")
+
+FRECUENCIA_MINIMA = 3
+
+print("\nDocumentos disponibles por año:")
 print(df['Year'].value_counts().sort_index())
 
 grupos_por_anio = df.groupby('Year')
 
 for anio, datos_del_anio in grupos_por_anio:
-    print(f"Procesando red del año: {int(anio)}...")
+
+    anio = int(anio)
+
+    print(f"\nProcesando red del año: {anio}...")
+
+    # -------------------------------------------------
+    # Calcular frecuencias SOLO para este año
+    # -------------------------------------------------
+
+    palabras_del_anio = []
+
+    for indice in datos_del_anio.index:
+        palabras_del_anio.extend(
+            keywords_limpias_por_fila[indice]
+        )
+
+    contador_anio = Counter(palabras_del_anio)
+
+    palabras_frecuentes_anio = {
+        palabra
+        for palabra, frecuencia in contador_anio.items()
+        if frecuencia >= FRECUENCIA_MINIMA
+    }
+
+    print(
+        f" -> Keywords antes del filtro: "
+        f"{len(contador_anio)}"
+    )
+
+    print(
+        f" -> Keywords con frecuencia >= {FRECUENCIA_MINIMA}: "
+        f"{len(palabras_frecuentes_anio)}"
+    )
+
+    print(
+        f" -> Keywords eliminadas como outliers: "
+        f"{len(contador_anio) - len(palabras_frecuentes_anio)}"
+    )
+
+    # -------------------------------------------------
+    # Crear red del año
+    # -------------------------------------------------
+
     G_anio = nx.Graph()
 
     for indice in datos_del_anio.index:
+
         palabras = [
             palabra
             for palabra in keywords_limpias_por_fila[indice]
-            if palabra in palabras_frecuentes
+            if palabra in palabras_frecuentes_anio
         ]
+
+        G_anio.add_nodes_from(palabras)
 
         pares = combinations(palabras, 2)
 
         for palabra1, palabra2 in pares:
-            if G_anio.has_edge(palabra1, palabra2):
-                G_anio[palabra1][palabra2]['weight'] += 1
-            else:
-                G_anio.add_edge(palabra1, palabra2, weight=1)
 
-    nombre_archivo = f"Redes/red_coocurrencia_{int(anio)}.gexf"
-    nx.write_gexf(G_anio, nombre_archivo)
+            if G_anio.has_edge(palabra1, palabra2):
+
+                G_anio[palabra1][palabra2]['weight'] += 1
+
+            else:
+
+                G_anio.add_edge(
+                    palabra1,
+                    palabra2,
+                    weight=1
+                )
+
+    nombre_archivo = (
+        f"../Redes/red_coocurrencia_{anio}.gexf"
+    )
+
+    nx.write_gexf(
+        G_anio,
+        nombre_archivo
+    )
 
     print(
         f" -> Nodos: {G_anio.number_of_nodes()} | "
         f"Enlaces: {G_anio.number_of_edges()}"
-    )
-
-
-df_frecuencias_filtradas = df_frecuencias[
-    df_frecuencias['count'] >= FRECUENCIA_MINIMA
-]
-
-df_frecuencias_filtradas.to_csv(
-    'frecuencias_palabras_filtradas.csv',
-    index=False
-)
+    )   
 
 df.to_csv(
-    'base_datos_final_unificada.csv',
+    '../base_datos_final_unificada.csv',
     index=False
 )
+
 
 print("\n¡Proceso completado exitosamente!")

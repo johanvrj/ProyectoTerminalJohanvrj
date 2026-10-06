@@ -1,0 +1,181 @@
+﻿year,cluster,topic_id,topic_label,topic_description,interpretation_confidence
+2015,1,2015_T01,Neurotoxicidad y estrés oxidativo,"Función mitocondrial, especies reactivas, metabolismo energético, daño celular y neuroprotección.",alta
+2015,2,2015_T02,Carga de enfermedad y salud global,"Enfermedades, lesiones, mortalidad, esperanza de vida y factores socioeconómicos asociados con salud poblacional.",alta
+2015,3,2015_T03,Procesos electroquímicos y tratamiento de agua,"Reactores y electrodos electroquímicos, oxidación, materiales metálicos y aplicaciones en tratamiento de agua.",alta
+2015,4,2015_T04,Fotocatálisis y materiales semiconductores,"Síntesis y caracterización de fotocatalizadores, dopaje, óxidos, nanotubos y degradación fotocatalítica.",alta
+2015,5,2015_T05,Contaminación ambiental y sistemas agropecuarios,"Ganado, leche, agricultura y exposición ambiental a contaminantes, particularmente hidrocarburos aromáticos.",media
+2015,6,2015_T06,Digestión anaerobia y tratamiento de aguas,"Metanogénesis, biogás, comunidades microbianas, lodos y reactores anaerobios para depuración de agua.",alta
+2015,7,2015_T07,Fisicoquímica y modelado molecular,"Electrones, protones, termodinámica, modelos químicos, radicales libres y propiedades de soluciones.",media
+2015,8,2015_T08,Remoción de nitrógeno en aguas residuales,"Nitrificación, nitritos, amoníaco, biofilms y dinámica de fluidos aplicada al tratamiento de aguas.",alta
+2015,9,2015_T09,Inflamación y actividad antiinflamatoria,"Inflamación crónica, edema, neutrófilos, macrófagos, plantas medicinales y agentes antiinflamatorios.",alta
+2015,10,2015_T10,Reología y propiedades de almidones,"Viscoelasticidad, almidón, emulsiones, gelatinización, gelificación y propiedades estructurales.",alta
+2015,11,2015_T11,Cáncer de mama y regulación génica,"Células tumorales mamarias, regulación de expresión génica, siRNA, proliferación y actividad antineoplásica.",alta
+2015,12,2015_T12,Actividad antidepresiva y neurofarmacología,"Pruebas conductuales, antidepresivos, diazepam, locomoción y compuestos vegetales bioactivos.",alta
+2015,13,2015_T13,Física matemática y sistemas cuánticos,"Ecuaciones de onda, estados fundamentales, eigenvalores, osciladores, campos magnéticos y métodos numéricos.",alta
+2015,14,2015_T14,"Metabolismo, estrés y factores cardiometabólicos","Glucosa, insulina, colesterol, triglicéridos, IMC, antropometría, estrés y asociaciones genéticas.",alta
+2016,1,2016_T01,Dolor neuropático y analgesia farmacológica,"Dolor neuropático, nocicepción y evaluación de agentes con actividad analgésica.",alta
+2016,2,2016_T02,Conducta sexual y sistema serotoninérgico,Conducta sexual y mecanismos neurofarmacológicos asociados con la neurotransmisión serotoninérgica.,alta
+2016,3,2016_T03,Modelado químico y procesos microbianos,Agrupa modelado químico junto con procesos enzimáticos y microbianos; su interpretación es heterogénea.,baja
+2016,4,2016_T04,"Cáncer, ciclo celular y agentes antineoplásicos","Procesos tumorales, regulación del ciclo celular y evaluación de agentes antineoplásicos.",media
+2016,5,2016_T05,"Genética molecular, filogenia y biodiversidad","Diversidad genética, relaciones filogenéticas y caracterización molecular de organismos.",alta
+2016,6,2016_T06,Estrés oxidativo y metabolismo hepático,"Daño oxidativo, metabolismo y procesos fisiológicos relacionados con función hepática.",alta
+2016,7,2016_T07,"Nutrición animal, lactancia y fisiología bovina","Nutrición y fisiología de bovinos, con énfasis en lactancia y producción animal.",alta
+2016,8,2016_T08,Carga de enfermedad y salud global,"Mortalidad, discapacidad y patrones poblacionales de enfermedad en estudios de salud global.",alta
+2016,9,2016_T09,"Reología, polímeros y materiales compuestos",Propiedades reológicas y estructurales de polímeros y materiales compuestos.,media
+2016,10,2016_T10,Entamoeba histolytica y mecanismos de adhesión celular,Procesos celulares y moleculares asociados con Entamoeba histolytica y adhesión celular.,alta
+2016,11,2016_T11,Fotocatálisis y materiales semiconductores,"Materiales semiconductores, propiedades fotocatalíticas y procesos de degradación inducidos por luz.",alta
+2016,12,2016_T12,Catálisis y materiales para reacciones electroquímicas,Materiales catalíticos y procesos asociados con reacciones y sistemas electroquímicos.,media
+2016,13,2016_T13,Tratamiento electroquímico de aguas residuales,Aplicaciones de procesos electroquímicos para degradación de contaminantes y tratamiento de aguas.,alta
+2016,14,2016_T14,Nutrición infantil y factores de riesgo socioeconómicos,Nutrición y salud infantil relacionadas con condiciones y factores socioeconómicos.,media
+2016,15,2016_T15,Dinámica cardiovascular y análisis de señales fisiológicas,Dinámica cardiovascular y análisis cuantitativo de señales y variables fisiológicas.,alta
+2016,16,2016_T16,Modelado numérico y procesos fisicoquímicos,Combina métodos numéricos y dinámica de fluidos con procesos fisicoquímicos y biotecnológicos.,baja
+2016,17,2016_T17,Genética poblacional y susceptibilidad a enfermedades,"Variantes genéticas, haplotipos y susceptibilidad genética a enfermedades.",alta
+2016,18,2016_T18,Biotecnología microbiana y producción de bioetanol,Procesos microbianos y enzimáticos orientados a bioconversión y producción de bioetanol.,alta
+2017,1,2017_T01,Thiobarbituric acid reactive substance / glutathione,"Tópico representado principalmente por: thiobarbituric acid reactive substance, glutathione, insecticide.",media
+2017,2,2017_T02,Chemical oxygen demand / thermogravimetry,"Tópico representado principalmente por: chemical oxygen demand, thermogravimetry, surfactant.",media
+2017,3,2017_T03,Anthozoa / echinoderm,"Tópico representado principalmente por: anthozoa, echinoderm, echinodermata.",media
+2017,4,2017_T04,Peptic ulcer / pertussis,"Tópico representado principalmente por: peptic ulcer, pertussis, newborn disease.",media
+2017,5,2017_T05,Solid electrolyte / polyelectrolyte,"Tópico representado principalmente por: solid electrolyte, polyelectrolyte, lithium.",media
+2017,6,2017_T06,Single nucleotide polymorphism / polymorphism single nucleotide,"Tópico representado principalmente por: single nucleotide polymorphism, polymorphism single nucleotide, genetic risk.",media
+2017,7,2017_T07,Red meat / somatomedin c,"Tópico representado principalmente por: red meat, somatomedin c, insulin like growth factor i.",media
+2017,8,2017_T08,Stability / feedback,"Tópico representado principalmente por: stability, feedback, finite element method.",media
+2017,9,2017_T09,Phenanthrene / pah,"Tópico representado principalmente por: phenanthrene, pah, soil microbiology.",media
+2017,10,2017_T10,"Percepción, salud y gestión socioambiental","Cluster interdisciplinario que combina percepción, salud pública, eventos sísmicos y bienestar animal.",baja
+2017,11,2017_T11,White light emission / photocatalysts,"Tópico representado principalmente por: white light emission, photocatalysts, irradiation.",media
+2017,12,2017_T12,Plant medicinal product / hypoglycemic agent,"Tópico representado principalmente por: plant medicinal product, hypoglycemic agent, plants medicinal.",media
+2017,13,2017_T13,Chemical activation / molecular structure,"Tópico representado principalmente por: chemical activation, molecular structure, models chemical.",media
+2017,14,2017_T14,Skin / ameloblastoma,"Tópico representado principalmente por: skin, ameloblastoma, cell engineering.",media
+2017,15,2017_T15,Metabolic syndrome x / triacylglycerol blood level,"Tópico representado principalmente por: metabolic syndrome x, triacylglycerol blood level, low density lipoprotein cholesterol.",media
+2018,1,2018_T01,Genetic predisposition to disease / genetic predisposition,"Tópico representado principalmente por: genetic predisposition to disease, genetic predisposition, polymorphism single nucleotide.",media
+2018,2,2018_T02,Métodos analíticos y reproducción asistida,Cluster heterogéneo que combina reproducción asistida con métodos estadísticos y procesamiento de información.,baja
+2018,3,2018_T03,Solid state fermentation / metabolite,"Tópico representado principalmente por: solid state fermentation, metabolite, aspergillus.",media
+2018,4,2018_T04,Socioeconomic factor / socioeconomics,"Tópico representado principalmente por: socioeconomic factor, socioeconomics, sex distribution.",media
+2018,5,2018_T05,Finite element method / diastolic blood pressure,"Tópico representado principalmente por: finite element method, diastolic blood pressure, orthostatic stress.",media
+2018,6,2018_T06,Latin america / innovation,"Tópico representado principalmente por: latin america, innovation, conservation management.",media
+2018,7,2018_T07,Caracterización fisicoquímica y biomateriales,Cluster heterogéneo que combina reología y materiales con conceptos biológicos y de calidad de vida.,baja
+2018,8,2018_T08,Reaction mechanism / atom,"Tópico representado principalmente por: reaction mechanism, atom, scavenger.",media
+2018,9,2018_T09,Spherical aggregate / sphere,"Tópico representado principalmente por: spherical aggregate, sphere, microstructure.",media
+2018,10,2018_T10,Photoluminescence spectrum / phosphor,"Tópico representado principalmente por: photoluminescence spectrum, phosphor, light emitting diode.",media
+2018,11,2018_T11,Bioaccumulation / perciform,"Tópico representado principalmente por: bioaccumulation, perciform, pollution effect.",media
+2018,12,2018_T12,Staphylococcus aureus / antibiotic resistance,"Tópico representado principalmente por: staphylococcus aureus, antibiotic resistance, gentamicin.",media
+2018,13,2018_T13,Pain measurement / analgesic,"Tópico representado principalmente por: pain measurement, analgesic, analgesic agent.",media
+2018,14,2018_T14,Xenograft model antitumor assay / protein kinase b,"Tópico representado principalmente por: xenograft model antitumor assay, protein kinase b, tumor volume.",media
+2018,15,2018_T15,Nucleation / eutectic,"Tópico representado principalmente por: nucleation, eutectic, electrodeposition.",media
+2018,16,2018_T16,Anaerobic growth / anaerobiosis,"Tópico representado principalmente por: anaerobic growth, anaerobiosis, pollutant removal.",media
+2018,17,2018_T17,Polyester / fibroblast,"Tópico representado principalmente por: polyester, fibroblast, tissue engineering.",media
+2018,18,2018_T18,Experimental diabetes mellitus / diabetes mellitus experimental,"Tópico representado principalmente por: experimental diabetes mellitus, diabetes mellitus experimental, peroxisome proliferator activated receptor gamma.",media
+2019,1,2019_T01,Nucleation / cobalt alloy,"Tópico representado principalmente por: nucleation, cobalt alloy, palladium alloy.",media
+2019,2,2019_T02,Nonradiative energy transfer / emission spectroscopy,"Tópico representado principalmente por: nonradiative energy transfer, emission spectroscopy, excitation and emission spectrum.",media
+2019,3,2019_T03,Reverse transcription polymerase chain reaction / smoking,"Tópico representado principalmente por: reverse transcription polymerase chain reaction, smoking, upregulation.",media
+2019,4,2019_T04,Hippocampus / kainic acid,"Tópico representado principalmente por: hippocampus, kainic acid, neuroprotective agent.",media
+2019,5,2019_T05,Electrochemical technique / electrochemical impedance spectroscopy,"Tópico representado principalmente por: electrochemical technique, electrochemical impedance spectroscopy, sulfur.",media
+2019,6,2019_T06,Adomian decomposition method / soliton,"Tópico representado principalmente por: adomian decomposition method, soliton, iterative method.",media
+2019,7,2019_T07,Code / rheology,"Tópico representado principalmente por: code, rheology, viscoelasticity.",media
+2019,8,2019_T08,Electron transport / imidazole,"Tópico representado principalmente por: electron transport, imidazole, imidazole derivative.",media
+2019,9,2019_T09,Variabilidad genética y procesos celulares,"Cluster heterogéneo que combina variabilidad genética, señalización celular y propiedades de materiales.",baja
+2019,10,2019_T10,Nucleotide sequence / antibiotic resistance,"Tópico representado principalmente por: nucleotide sequence, antibiotic resistance, geographic distribution.",media
+2019,11,2019_T11,Chemical oxygen demand / sewage,"Tópico representado principalmente por: chemical oxygen demand, sewage, sludge.",media
+2019,12,2019_T12,Recovery / thermoanalysis,"Tópico representado principalmente por: recovery, thermoanalysis, dissolution.",media
+2019,13,2019_T13,Waist circumference / body mass index,"Tópico representado principalmente por: waist circumference, body mass index, adiposity.",media
+2019,14,2019_T14,Structure activity relation / structure activity relationship,"Tópico representado principalmente por: structure activity relation, structure activity relationship, edema.",media
+2019,15,2019_T15,Substrate concentration / saccharomyces cerevisiae,"Tópico representado principalmente por: substrate concentration, saccharomyces cerevisiae, bio ethanol production.",media
+2019,16,2019_T16,Heterojunctions / water splitting reaction,"Tópico representado principalmente por: heterojunctions, water splitting reaction, photocatalytic activity.",media
+2019,17,2019_T17,Developing world / climate change,"Tópico representado principalmente por: developing world, climate change, pacific ocean.",media
+2019,18,2019_T18,Squamous cell carcinoma / mouth tumor,"Tópico representado principalmente por: squamous cell carcinoma, mouth tumor, mouth neoplasm.",media
+2020,1,2020_T01,Macrophage / monocyte,"Tópico representado principalmente por: macrophage, monocyte, gamma interferon.",media
+2020,2,2020_T02,Tumor marker / odontogenic tumor,"Tópico representado principalmente por: tumor marker, odontogenic tumor, human immunodeficiency virus infection.",media
+2020,3,2020_T03,Dispersity / poly,"Tópico representado principalmente por: dispersity, poly, drug delivery.",media
+2020,4,2020_T04,Health care disparity / middle income country,"Tópico representado principalmente por: health care disparity, middle income country, infant newborn.",media
+2020,5,2020_T05,Eutectic / deep eutectic solvent,"Tópico representado principalmente por: eutectic, deep eutectic solvent, electrodeposition.",media
+2020,6,2020_T06,Social status / physical activity,"Tópico representado principalmente por: social status, physical activity, ethnic group.",media
+2020,7,2020_T07,Temperature programmed desorption / reaction temperature,"Tópico representado principalmente por: temperature programmed desorption, reaction temperature, methanol conversion.",media
+2020,8,2020_T08,Sol gel process / diffuse reflectance spectroscopy,"Tópico representado principalmente por: sol gel process, diffuse reflectance spectroscopy, ultraviolet irradiation.",media
+2020,9,2020_T09,Water purification / bioreactor,"Tópico representado principalmente por: water purification, bioreactor, water management.",media
+2020,10,2020_T10,Quantum theory / potential energy,"Tópico representado principalmente por: quantum theory, potential energy, non covalent interaction.",media
+2020,11,2020_T11,Sexual behavior / pathophysiology,"Tópico representado principalmente por: sexual behavior, pathophysiology, sleep initiation and maintenance disorder.",media
+2020,12,2020_T12,Peroxisome proliferator activated receptor alpha / glibenclamide,"Tópico representado principalmente por: peroxisome proliferator activated receptor alpha, glibenclamide, hypoglycemic agent.",media
+2020,13,2020_T13,Modelado matemático y sistemas dinámicos,"Cluster interdisciplinario que reúne ecuaciones, control, óptica, reactores y otros sistemas dinámicos.",baja
+2020,14,2020_T14,Protein phosphorylation / antiproliferative activity,"Tópico representado principalmente por: protein phosphorylation, antiproliferative activity, gelatinase b.",media
+2020,15,2020_T15,Thiobarbituric acid reactive substance / liver,"Tópico representado principalmente por: thiobarbituric acid reactive substance, liver, aspergillus.",media
+2020,16,2020_T16,Damage detection / predictive analytics,"Tópico representado principalmente por: damage detection, predictive analytics, earthquake damage.",media
+2020,17,2020_T17,Isothermal titration calorimetry / binding site,"Tópico representado principalmente por: isothermal titration calorimetry, binding site, stoichiometry.",media
+2020,18,2020_T18,Organic loading rate / system stability,"Tópico representado principalmente por: organic loading rate, system stability, biogas.",media
+2020,19,2020_T19,Anthozoa / coral reef,"Tópico representado principalmente por: anthozoa, coral reef, specie diversity.",media
+2020,20,2020_T20,Phylogenetic tree / antibiotic resistance,"Tópico representado principalmente por: phylogenetic tree, antibiotic resistance, actinobacteria.",media
+2021,1,2021_T01,Nitrite / nitrification,"Tópico representado principalmente por: nitrite, nitrification, waste water management.",media
+2021,2,2021_T02,River / flow of gas,"Tópico representado principalmente por: river, flow of gas, porous medium.",media
+2021,3,2021_T03,High density lipoprotein / physical conditioning animal,"Tópico representado principalmente por: high density lipoprotein, physical conditioning animal, nutrition.",media
+2021,4,2021_T04,Lung embolism / ruxolitinib,"Tópico representado principalmente por: lung embolism, ruxolitinib, heparin.",media
+2021,5,2021_T05,Indazole derivative / molecular dynamic simulation,"Tópico representado principalmente por: indazole derivative, molecular dynamic simulation, protein binding.",media
+2021,6,2021_T06,Information theory / hartree fock equation,"Tópico representado principalmente por: information theory, hartree fock equation, helium.",media
+2021,7,2021_T07,Tpa induced ear edema / edema,"Tópico representado principalmente por: tpa induced ear edema, edema, indometacin.",media
+2021,8,2021_T08,Polarization curve / electrochemical corrosion,"Tópico representado principalmente por: polarization curve, electrochemical corrosion, steel corrosion.",media
+2021,9,2021_T09,Thulium compound / thermogravimetry,"Tópico representado principalmente por: thulium compound, thermogravimetry, thermogravimetric analysis.",media
+2021,10,2021_T10,Photocatalytic hydrogen production / zinc alloy,"Tópico representado principalmente por: photocatalytic hydrogen production, zinc alloy, heterojunctions.",media
+2021,11,2021_T11,Cattle disease / slaughterhouse,"Tópico representado principalmente por: cattle disease, slaughterhouse, animal husbandry.",media
+2021,12,2021_T12,Bacterial virulence / virulence,"Tópico representado principalmente por: bacterial virulence, virulence, bacterial gene.",media
+2021,13,2021_T13,Watershed / land cover,"Tópico representado principalmente por: watershed, land cover, specie diversity.",media
+2021,14,2021_T14,Memory / latent period,"Tópico representado principalmente por: memory, latent period, glutamic acid.",media
+2021,15,2021_T15,Mestizo / genetic risk,"Tópico representado principalmente por: mestizo, genetic risk, genomic dna.",media
+2021,16,2021_T16,Cumulus cell / swine,"Tópico representado principalmente por: cumulus cell, swine, dna damage.",media
+2021,17,2021_T17,All cause mortality / mortality rate,"Tópico representado principalmente por: all cause mortality, mortality rate, global health.",media
+2021,18,2021_T18,Protein expression level / small interfering rna,"Tópico representado principalmente por: protein expression level, small interfering rna, immunoglobulin g.",media
+2021,19,2021_T19,Starch / spectroscopy fourier transform infrared,"Tópico representado principalmente por: starch, spectroscopy fourier transform infrared, in vitro.",media
+2022,1,2022_T01,Global burden of disease / global disease burden,"Tópico representado principalmente por: global burden of disease, global disease burden, global health.",media
+2022,2,2022_T02,Drug excretion / peroxisome proliferator activated receptor gamma,"Tópico representado principalmente por: drug excretion, peroxisome proliferator activated receptor gamma, pioglitazone.",media
+2022,3,2022_T03,Wistar rat / spermatozoon motility,"Tópico representado principalmente por: wistar rat, spermatozoon motility, rats wistar.",media
+2022,4,2022_T04,Gelatinisation / emulsion,"Tópico representado principalmente por: gelatinisation, emulsion, ftir analysis.",media
+2022,5,2022_T05,Tunables / zinc oxide,"Tópico representado principalmente por: tunables, zinc oxide, white light emission.",media
+2022,6,2022_T06,Procesos fisicoquímicos y modelado,"Cluster heterogéneo que combina electrolitos, materiales y modelado de procesos.",baja
+2022,7,2022_T07,Nanomateriales y sistemas biológicos,Cluster heterogéneo que relaciona nanomateriales y nanocatálisis con distintos sistemas biológicos.,baja
+2022,8,2022_T08,One dimensional / differential equation,"Tópico representado principalmente por: one dimensional, differential equation, porous medium.",media
+2022,9,2022_T09,Household / poverty,"Tópico representado principalmente por: household, poverty, population growth.",media
+2022,10,2022_T10,Oxygen saturation / pneumonia,"Tópico representado principalmente por: oxygen saturation, pneumonia, artificial ventilation.",media
+2022,11,2022_T11,Protected area / decision making,"Tópico representado principalmente por: protected area, decision making, oaxaca.",media
+2022,12,2022_T12,Genetic transcription / protein purification,"Tópico representado principalmente por: genetic transcription, protein purification, fermentation.",media
+2022,13,2022_T13,Optical soliton / soliton,"Tópico representado principalmente por: optical soliton, soliton, iterative method.",media
+2022,14,2022_T14,Food intake / diet supplementation,"Tópico representado principalmente por: food intake, diet supplementation, feed conversion ratio.",media
+2022,15,2022_T15,Ultraviolet irradiation / photocatalysis,"Tópico representado principalmente por: ultraviolet irradiation, photocatalysis, desorption.",media
+2022,16,2022_T16,Bioreactor / sewage,"Tópico representado principalmente por: bioreactor, sewage, pollutant removal.",media
+2022,17,2022_T17,Glass membrane electrode / nucleation,"Tópico representado principalmente por: glass membrane electrode, nucleation, glassy carbon electrode.",media
+2022,18,2022_T18,Estructura molecular y caracterización de materiales,"Cluster heterogéneo de estructura molecular, difracción, orbitales y caracterización de materiales.",baja
+2022,19,2022_T19,Polymorphism single nucleotide / genetic predisposition,"Tópico representado principalmente por: polymorphism single nucleotide, genetic predisposition, genetic predisposition to disease.",media
+2022,20,2022_T20,Anti inflammatory agent / drug isolation,"Tópico representado principalmente por: anti inflammatory agent, drug isolation, dichloromethane.",media
+2023,1,2023_T01,Sol  gel method / sol gel process,"Tópico representado principalmente por: sol  gel method, sol gel process, titanium.",media
+2023,2,2023_T02,Thermography / birth weight,"Tópico representado principalmente por: thermography, birth weight, animal welfare.",media
+2023,3,2023_T03,Spermatozoon motility / epididymis,"Tópico representado principalmente por: spermatozoon motility, epididymis, semen.",media
+2023,4,2023_T04,Nitrite / nitrate,"Tópico representado principalmente por: nitrite, nitrate, diet.",media
+2023,5,2023_T05,Smoothed particle hydrodynamics / nonlinear equation,"Tópico representado principalmente por: smoothed particle hydrodynamics, nonlinear equation, porous material.",media
+2023,6,2023_T06,Chemical structure / structure activity relation,"Tópico representado principalmente por: chemical structure, structure activity relation, mass spectrometry.",media
+2023,7,2023_T07,Organometallics / metal organic framework,"Tópico representado principalmente por: organometallics, metal organic framework, metalorganic framework.",media
+2023,8,2023_T08,Antimicrobial activity / microbial sensitivity test,"Tópico representado principalmente por: antimicrobial activity, microbial sensitivity test, antibiotic sensitivity.",media
+2023,9,2023_T09,Seismology / seismic design,"Tópico representado principalmente por: seismology, seismic design, reinforced concrete.",media
+2023,10,2023_T10,Tumor suppressor gene / tumor cell line,"Tópico representado principalmente por: tumor suppressor gene, tumor cell line, transcriptome.",media
+2023,11,2023_T11,Anxiety disorder / student,"Tópico representado principalmente por: anxiety disorder, student, university student.",media
+2023,12,2023_T12,Genetic polymorphism / genotyping,"Tópico representado principalmente por: genetic polymorphism, genotyping, allele.",media
+2023,13,2023_T13,Bagg albino mouse / gamma interferon,"Tópico representado principalmente por: bagg albino mouse, gamma interferon, rna messenger.",media
+2023,14,2023_T14,Superoxide dismutase / secondary metabolite,"Tópico representado principalmente por: superoxide dismutase, secondary metabolite, solid state fermentation.",media
+2023,15,2023_T15,Hemoglobin / hypertension,"Tópico representado principalmente por: hemoglobin, hypertension, hydroxymethylglutaryl coenzyme a reductase inhibitor.",media
+2023,16,2023_T16,Anaerobic growth / anaerobiosis,"Tópico representado principalmente por: anaerobic growth, anaerobiosis, waste disposal fluid.",media
+2023,17,2023_T17,Protected area / conservation,"Tópico representado principalmente por: protected area, conservation, sustainability.",media
+2023,18,2023_T18,Infrared device / tellurium compound,"Tópico representado principalmente por: infrared device, tellurium compound, co doping.",media
+2023,19,2023_T19,Eigenvalue and eigenfunctions / lagrange multiplier,"Tópico representado principalmente por: eigenvalue and eigenfunctions, lagrange multiplier, hydrogen atom.",media
+2024,1,2024_T01,Pacific ocean / forest,"Tópico representado principalmente por: pacific ocean, forest, vegetation type.",media
+2024,2,2024_T02,Promoter regions genetic / transcription regulation,"Tópico representado principalmente por: promoter regions genetic, transcription regulation, timing circuit.",media
+2024,3,2024_T03,Micro algae / biodegradation environmental,"Tópico representado principalmente por: micro algae, biodegradation environmental, pre treatments.",media
+2024,4,2024_T04,Dipole / graphene,"Tópico representado principalmente por: dipole, graphene, transition element.",media
+2024,5,2024_T05,Electrodeposition / glass membrane electrode,"Tópico representado principalmente por: electrodeposition, glass membrane electrode, ethylene glycol.",media
+2024,6,2024_T06,Cerebrovascular accident / forecasting,"Tópico representado principalmente por: cerebrovascular accident, forecasting, global disease burden.",media
+2024,7,2024_T07,Drug delivery system / drug release,"Tópico representado principalmente por: drug delivery system, drug release, tablet friability.",media
+2024,8,2024_T08,Waist circumference / physical activity,"Tópico representado principalmente por: waist circumference, physical activity, low density lipoprotein cholesterol.",media
+2024,9,2024_T09,Neutron / point kinetics,"Tópico representado principalmente por: neutron, point kinetics, neutron point kinetic.",media
+2024,10,2024_T10,T lymphocyte / virus load,"Tópico representado principalmente por: t lymphocyte, virus load, cells cultured.",media
+2024,11,2024_T11,Digestión anaerobia y gestión de residuos,"Cluster dominado por digestión anaerobia y residuos, con términos secundarios de percepción y encuestas.",baja
+2024,12,2024_T12,Microbiome / firmicutes,"Tópico representado principalmente por: microbiome, firmicutes, proteobacteria.",media
+2024,13,2024_T13,Quantum optic / schrodinger equation,"Tópico representado principalmente por: quantum optic, schrodinger equation, perturbation technique.",media
+2024,14,2024_T14,Earthquake event / ground motion,"Tópico representado principalmente por: earthquake event, ground motion, seismic response.",media
+2024,15,2024_T15,Brain / mental performance,"Tópico representado principalmente por: brain, mental performance, anxiety.",media
+2024,16,2024_T16,Drug screening / dose response relationship drug,"Tópico representado principalmente por: drug screening, dose response relationship drug, structure activity relation.",media
+2024,17,2024_T17,Peroxisome proliferator activated receptor alpha / oral glucose tolerance test,"Tópico representado principalmente por: peroxisome proliferator activated receptor alpha, oral glucose tolerance test, insulin sensitivity.",media
+2024,18,2024_T18,Raman spectrometry / zinc alloy,"Tópico representado principalmente por: raman spectrometry, zinc alloy, solgel.",media
+2024,19,2024_T19,Multidrug resistance / bacterium isolation,"Tópico representado principalmente por: multidrug resistance, bacterium isolation, salmonella enterica serovar typhimurium.",media

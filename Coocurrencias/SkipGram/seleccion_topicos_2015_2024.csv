@@ -1,0 +1,11 @@
+﻿year,best_k_silhouette,best_silhouette,selected_k,selected_silhouette,justification
+2015,16,0.1457190314435053,14,0.1452279876983386,"Silhouette similar al máximo, con menor fragmentación y mejor coherencia temática."
+2016,19,0.1282904013244778,18,0.1255970939533083,Mejor equilibrio entre separación de tópicos y coherencia temática.
+2017,20,0.1357528083195239,15,0.1311189330804179,k=20 fragmenta varios tópicos; k=15 produce grupos más compactos e interpretables.
+2018,18,0.1123628499184427,18,0.1123628499184427,Coinciden el máximo Silhouette y una estructura temática coherente.
+2019,2,0.1221668333226493,18,0.1029212820233936,k=2 representa macroáreas; k=18 permite identificar tópicos científicos específicos.
+2020,2,0.1251982610047805,20,0.1151313990588706,k=2 y k=3 representan macroáreas; k=20 proporciona mayor resolución temática.
+2021,2,0.1162138683724715,19,0.1140418547861357,k=19 mejora la separación de áreas temáticas y reduce mezclas observadas con k=18.
+2022,2,0.118309376048422,20,0.1130816240965023,k=20 presenta grupos más especializados y reduce mezclas temáticas respecto a k=19.
+2023,19,0.1464804717056855,19,0.1464804717056855,Coinciden el máximo Silhouette y una estructura temática coherente.
+2024,20,0.1125730745119921,19,0.1108456162005671,k=19 ofrece mejor equilibrio temático; k=20 introduce fragmentación adicional.
